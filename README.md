@@ -2,7 +2,7 @@
 
 > Building a webpage structure from a Figma design
 
-## 📄 Project Description
+## Project Description
 
 This project is part of the Holberton School curriculum to deepen HTML semantic skills by replicating a professional design. The goal is to **create a complete HTML-only version** of a webpage based on a Figma design.
 
